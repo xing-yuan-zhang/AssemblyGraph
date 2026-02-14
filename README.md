@@ -1,1 +1,1 @@
-AssemblyGraph @ Cui Lab, Stanford Chemistry, Neuroscience and ChEM-H Institute.
+AssemblyDiffusion @ Cui Lab, Stanford Chemistry, Neuroscience and ChEM-H Institute.
